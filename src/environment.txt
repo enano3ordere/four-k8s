@@ -5,3 +5,4 @@ Draft logistics plan
 Update alerting rules
 Update portfolio deck
 Draft onboarding steps
+Review lessons learned
