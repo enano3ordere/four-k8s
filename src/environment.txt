@@ -1,6 +1,1 @@
-Prepare roadmap for Q1
-Review SLA metrics
-Record conversion data
-Plan data migration
-Draft resilience test
-Plan rollback procedure
+Update changelog with details
