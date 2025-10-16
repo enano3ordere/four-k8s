@@ -26,3 +26,4 @@ List rotation schedule
 Reevaluate requirements
 Draft roadmap alignment
 Draft migration checklist
+Update pricing table
