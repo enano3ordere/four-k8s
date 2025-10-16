@@ -17,3 +17,4 @@ Draft onboarding checklist
 List rate limit configs
 Prepare presentation slides
 List semantic changes
+Draft optimization notes
