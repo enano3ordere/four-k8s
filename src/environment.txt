@@ -1,7 +1,1 @@
-Record load test data
-Update diagrams
-Draft liquidity plan
-Update CDN rules
-Research best practices
-Update board minutes
-List vendor options
+Update dispute outcomes
