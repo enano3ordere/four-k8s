@@ -8,3 +8,4 @@ Draft onboarding steps
 Review lessons learned
 Review cost savings
 Update test matrix
+Update deletion logs
