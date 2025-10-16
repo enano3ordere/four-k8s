@@ -1,3 +1,1 @@
-Update hedging plan
-List DR procedures
-Review architecture decisions
+Recheck boundary cases
