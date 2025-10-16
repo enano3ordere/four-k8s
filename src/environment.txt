@@ -3,3 +3,4 @@ Record checksum values
 Record F1 score
 Draft logistics plan
 Update alerting rules
+Update portfolio deck
