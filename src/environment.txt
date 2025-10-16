@@ -1,8 +1,1 @@
-Draft reproducibility plan
-Start new iteration of the project
-Schedule maintenance window
-Summarize zone updates
-Summarize call notes
-Update collaboration doc
-Record hackathon ideas
-Draft sales strategy
+Record certification status
