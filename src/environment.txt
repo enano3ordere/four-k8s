@@ -22,3 +22,4 @@ Summarize scaling notes
 Draft forum summary
 Draft exploration notes
 Start new iteration of the project
+List rotation schedule
