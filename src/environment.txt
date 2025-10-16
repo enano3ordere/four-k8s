@@ -1,6 +1,1 @@
-Draft marketing blurb
-Check localization files
-Update session rules
-Summarize permission gaps
-Recheck security notes
-Check monitoring alerts
+Record load test data
