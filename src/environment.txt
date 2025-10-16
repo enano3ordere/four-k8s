@@ -3,3 +3,4 @@ Summarize litigation notes
 List missing translations
 Audit database schema
 Summarize brand sentiment
+List banking contacts
