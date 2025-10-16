@@ -2,3 +2,4 @@ Draft marketing blurb
 Check localization files
 Update session rules
 Summarize permission gaps
+Recheck security notes
