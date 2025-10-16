@@ -11,3 +11,4 @@ Update test matrix
 Update deletion logs
 Update kill switch
 Record interview notes
+Record license info
