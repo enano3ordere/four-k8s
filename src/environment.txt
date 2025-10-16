@@ -1,2 +1,1 @@
-Record labeling guide
-Record NPS score
+Record engagement stats
