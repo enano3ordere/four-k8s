@@ -2,3 +2,4 @@ Record load test data
 Update diagrams
 Draft liquidity plan
 Update CDN rules
+Research best practices
