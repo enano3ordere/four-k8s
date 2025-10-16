@@ -1,5 +1,1 @@
-Draft mitigation guide
-Refine acceptance criteria
-Update reproducibility logs
-List missing translations
-Plan resource allocation
+Prepare roadmap for Q1
