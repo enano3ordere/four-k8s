@@ -5,3 +5,4 @@ Summarize zone updates
 Summarize call notes
 Update collaboration doc
 Record hackathon ideas
+Draft sales strategy
