@@ -5,3 +5,4 @@ Collect analytics snapshots
 Review pull requests
 Plan team retro
 Draft SSO integration
+Update swag inventory
