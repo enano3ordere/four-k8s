@@ -2,3 +2,4 @@ Prepare roadmap for Q1
 Review SLA metrics
 Record conversion data
 Plan data migration
+Draft resilience test
