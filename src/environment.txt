@@ -25,3 +25,4 @@ Start new iteration of the project
 List rotation schedule
 Reevaluate requirements
 Draft roadmap alignment
+Draft migration checklist
