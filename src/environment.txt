@@ -18,3 +18,4 @@ List rate limit configs
 Prepare presentation slides
 List semantic changes
 Draft optimization notes
+Summarize scaling notes
