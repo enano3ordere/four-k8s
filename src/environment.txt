@@ -1,2 +1,1 @@
-Record benchmark outcomes
-Update alerting rules
+Update hedging plan
