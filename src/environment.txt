@@ -1,2 +1,3 @@
 Draft marketing blurb
 Check localization files
+Update session rules
