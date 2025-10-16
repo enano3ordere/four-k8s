@@ -2,3 +2,4 @@ Record engagement stats
 Summarize litigation notes
 List missing translations
 Audit database schema
+Summarize brand sentiment
