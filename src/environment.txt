@@ -20,3 +20,4 @@ List semantic changes
 Draft optimization notes
 Summarize scaling notes
 Draft forum summary
+Draft exploration notes
